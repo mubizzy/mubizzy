@@ -34,9 +34,8 @@
 ---
 
 <!--START_SECTION:waka-->
-📊 **This week I spent my time on**
+
 ```text
-⌚︎ Timezone: Lagos/Nigeria
 No activity tracked
 ```
 
