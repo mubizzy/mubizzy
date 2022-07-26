@@ -26,6 +26,10 @@
 ![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 
+#### Github Stats
+
+[<img align="center" width="" src="https://github-readme-stats.vercel.app/api?username=mubizzy&show_icons=true&theme=tokyonight"/>](https://github.com/mubizzy/)
+
 #### Coding Stats
 ---
 
@@ -37,6 +41,3 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-#### Github Stats
-
-[<img align="center" width="" src="https://github-readme-stats.vercel.app/api?username=mubizzy&show_icons=true&theme=tokyonight"/>](https://github.com/mubizzy/)
