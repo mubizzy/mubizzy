@@ -36,7 +36,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Markdown   1 hr 3 mins     ██████████████████▒░░░░░░   73.51 %
+YAML       17 mins         █████░░░░░░░░░░░░░░░░░░░░   20.35 %
+Other      5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
 ```
 
 <!--END_SECTION:waka-->
