@@ -27,11 +27,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 
 #### Github Stats
-
-[<img align="center" width="" src="https://github-readme-stats.vercel.app/api?username=mubizzy&show_icons=true&theme=tokyonight"/>](https://github.com/mubizzy/)
-
-#### Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mubizzy&hide=issues,contribsicons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mubizzy&hide=issues,contribs,icons=true&theme=radical)
 
 #### Coding Stats
 ---
