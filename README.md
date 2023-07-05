@@ -30,6 +30,9 @@
 
 [<img align="center" width="" src="https://github-readme-stats.vercel.app/api?username=mubizzy&show_icons=true&theme=tokyonight"/>](https://github.com/mubizzy/)
 
+#### Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 #### Coding Stats
 ---
 
