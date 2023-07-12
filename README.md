@@ -3,7 +3,7 @@
 <p align='center'>My name is Mubarak, am a Mobile developer. I enjoy creating and designing things that live on the internet. At this point in my career, I'm looking forward to working in a remote, challenging environment.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubizzy" alt="mubizzy" /> </p>
 
-- 🔭 I’m currently more into **front-end web application**
+- 🔭 I’m currently more into **Mobile application**
 - 🌱 I’m currently learning **Open Source Contribution.**
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
 - 🤔 I’m looking for help with **again Open Source. This is really fun.**
