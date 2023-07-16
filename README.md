@@ -1,8 +1,8 @@
+![gitartwork](gitartwork.svg)
 <h2  align='center'><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"></h2>
 <h2 align="center"> Hi, Welcome To My Github Profile <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <p align='center'>My name is Mubarak, am a Mobile developer. I enjoy creating and designing things that live on the internet. At this point in my career, I'm looking forward to working in a remote, challenging environment.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubizzy" alt="mubizzy" /> </p>
-
 - 🔭 I’m currently more into **Mobile application**
 - 🌱 I’m currently learning **Open Source Contribution.**
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
