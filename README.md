@@ -28,19 +28,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 
 
-#### Coding Stats
----
 
-<!--START_SECTION:waka-->
-
-```txt
-Dart   15 hrs 34 mins  ███████████████████████▒░   93.21 %
-YAML   59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
-XML    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-```
-
-<!--END_SECTION:waka-->
 
 
 
