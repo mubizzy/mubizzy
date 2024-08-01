@@ -33,7 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML       43 mins         ████████████████▓░░░░░░░░   66.62 %
+Markdown   15 mins         ██████░░░░░░░░░░░░░░░░░░░   23.97 %
+Config     3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+INI        2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Jinja2     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
