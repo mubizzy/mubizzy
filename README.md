@@ -33,9 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML     27 mins         ████████████████████████▓   98.39 %
-Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-INI      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
