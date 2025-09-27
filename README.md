@@ -33,11 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              5 hrs 36 mins   █████████████░░░░░░░░░░░░   51.64 %
-TypeScript        4 hrs 16 mins   ██████████░░░░░░░░░░░░░░░   39.45 %
-Java Properties   37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
-HTML              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-Other             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Dart                8 hrs 45 mins   █████████████░░░░░░░░░░░░   52.31 %
+JavaScript          5 hrs 5 mins    ███████▓░░░░░░░░░░░░░░░░░   30.42 %
+Java Properties     1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+TypeScript          21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Bash                21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
 ```
 
 <!--END_SECTION:waka-->
