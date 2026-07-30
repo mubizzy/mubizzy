@@ -33,9 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go           1 hr 13 mins          ███████████████████████▒░   93.21 %
-YAML         4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
-TypeScript   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
