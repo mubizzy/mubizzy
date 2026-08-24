@@ -33,11 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         49 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.54 %
-Markdown     47 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.89 %
-Ruby         45 mins               █████░░░░░░░░░░░░░░░░░░░░   19.91 %
-Go           33 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.74 %
-Bash         23 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
